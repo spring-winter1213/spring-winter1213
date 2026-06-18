@@ -52,7 +52,7 @@ yunjin = {
 
 | # | 프로젝트 | 분야 | 핵심 기술 |
 |---|---------|------|-----------|
-| 🏭 | **[버스바 이상탐지 (MNVision)](https://github.com/spring-winter1213/portfolio)** | Industrial Vision AI | PatchCore, WideResNet-50-2, AUROC |
+| 🏭 | **[버스바 이상탐지 (MNVision)](https://github.com/KDT12-mnvision/KDT12-mnvison)** | Industrial Vision AI | PatchCore, WideResNet-50-2, AUROC |
 | 🎭 | **[텍스트·이미지 감정 분석](https://github.com/spring-winter1213/portfolio/tree/main/deep%20learning%20텍스트와%20이미지를%20통한%20감정분석)** | Deep Learning | KoBERT, CNN, Multimodal |
 | 🤖 | **[AI 교육 챗봇 NEW LEARN](https://github.com/spring-winter1213/portfolio/tree/main/nlp%20뉴런교육챗봇)** | NLP | Transformer, OpenAI API, FastAPI |
 | 🌡 | **[기후변화 × 정신질환 상관분석](https://github.com/spring-winter1213/portfolio/tree/main/public%20data%20기후변화와%20정신질환간의%20상관관계)** | Public Data | Pandas, Statsmodels, 공공데이터 |
